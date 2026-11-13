@@ -1,0 +1,13 @@
+# KiCad backups, caches and per-user state
+*-backups/
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.lck
+~*.lck
+\#auto_saved_files\#
+fp-info-cache
+*.kicad_prl
+# JLCPCB plugin database
+jlcpcb/project.db
